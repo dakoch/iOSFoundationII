@@ -1,6 +1,7 @@
 //  --------------------------------------------------
 //   Second submission for the F2 Mid-term project.
 //  --------------------------------------------------
+//  01.0 November 17, 2014 Test check-in/out
 //
 //  Assignment 1
 //  Create a Person class in Swift with the following functionality:
